@@ -1,0 +1,21 @@
+
+
+body, h1{
+    color:red;
+    text-align:center;
+}
+
+#userList{
+
+    text-align: center;
+
+    list-style-type: none;
+}
+
+#main{
+
+background-color: black;
+padding: 50px;
+margin-top:1px;
+
+}
